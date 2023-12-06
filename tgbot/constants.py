@@ -1,0 +1,6 @@
+CONTACTS = "tgbot/json/contacts.json"
+CATALOG = "tgbot/json/catalog.json"
+ABOUT = "tgbot/json/about.json"
+PAGES = "tgbot/json/pages.json"
+ITEMS = "tgbot/json/items.json"
+URL = "https://anvibodycare.com/"
