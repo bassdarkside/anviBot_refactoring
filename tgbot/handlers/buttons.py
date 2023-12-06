@@ -1,12 +1,10 @@
 from tgbot.catalog import catalog, catalog_items
 
-from telebot.callback_data import CallbackData, CallbackDataFilter
 from telebot.types import (
     KeyboardButton,
     InlineKeyboardButton,
     ReplyKeyboardMarkup,
     InlineKeyboardMarkup,
-    CallbackQuery,
 )
 
 

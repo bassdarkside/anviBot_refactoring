@@ -1,3 +1,5 @@
 # any configuration should be stored here
+from decouple import config
 
-TOKEN = 'TOKEN' # configure env if you need;
+ADMIN = config("ADMIN")
+TOKEN = config("BOT_TOKEN")  # configure env if you need;
